@@ -13,4 +13,4 @@ functionality.
 - Cart functionalities
 - Global Application Context with context API
 ## Live Link
-https://candid-cassata-36c73b.netlify.app/
+https://eclectic-queijadas-343829.netlify.app/
